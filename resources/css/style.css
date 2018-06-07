@@ -15,6 +15,8 @@
   font-size: 16px;
   color: aquamarine;
   text-decoration: underline;
+  font-family: "Verdana", sans-serif;
+  font-weight: lighter;
 }
 #guide {
   font-family: "Verdana", sans-serif;
@@ -37,4 +39,19 @@ size: 120%;
   font-size: 42px;
   font-weight: 300;
   color: white;
+}
+#download {
+  font-family: "Verdana", sans-serif;
+  font-size: 16px;
+  color: aquamarine;
+  text-decoration: underline;
+  font-weight: lighter;
+}
+#footer {
+  text-align: right;
+  color: gray;
+  font-weight: lighter;
+  font-size: 21px;
+  font-family: "Verdana", sans-serif;
+  padding-right: 250px;
 }
