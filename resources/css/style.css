@@ -26,4 +26,15 @@
   font-family: "Verdana", sans-serif;
   font-size: 21px;
   color: gray;
+  font-weight: lighter;
+}
+#camp {
+padding: 10px;
+size: 120%;
+}
+#coming {
+  font-family: "Verdana", sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
 }
